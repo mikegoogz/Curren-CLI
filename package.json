@@ -1,0 +1,24 @@
+{
+  "name": "curren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "curren.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/curren.js",
+  "keywords": [],
+  "author": "Michael Mwaura",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^6.0.0",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "neat-csv": "^5.2.0",
+    "prettyjson": "^1.2.1",
+    "querystring": "^0.2.0"
+  }
+}
